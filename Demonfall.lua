@@ -1,4 +1,4 @@
--- Demon Fall ShitAss
+-- Demon Fall
 
 -- globals
 getgenv().TrinketFarmEnabled = nil
