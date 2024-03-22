@@ -1,4 +1,6 @@
-#### FOR EDUCATIONAL PURPOSES ONLY (OUTDATED)
+#### FOR EDUCATIONAL PURPOSES ONLY
+***Note: These games were not made by me. These are add-on/modification scripts to be used for the games.***
+
 ### FruitCollector.lua [game](https://www.roblox.com/games/2753915549/Blox-Fruits)
 *Role-play game based on popular series One Piece.*
 
